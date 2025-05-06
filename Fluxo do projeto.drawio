@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="26.0.16">
   <diagram name="Página-1" id="eb5TO_QlAhTsJXs5QxYS">
-    <mxGraphModel dx="2960" dy="822" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2589" dy="679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -289,17 +289,52 @@
         <mxCell id="12RdLnxwD0o7JAVxzCQB-95" value="Aqui serão iniciados os testes práticos&lt;div&gt;simulando o usuário final para garantir&lt;/div&gt;&lt;div&gt;que o sistema vai estar funcionando&lt;/div&gt;&lt;div&gt;sem problemas, caso seja encontrado&lt;/div&gt;&lt;div&gt;algum problema ou erro será aberto&lt;/div&gt;&lt;div&gt;uma nova task para correção&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="-520" y="1720" width="50" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="12RdLnxwD0o7JAVxzCQB-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="12RdLnxwD0o7JAVxzCQB-98" target="12RdLnxwD0o7JAVxzCQB-111">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-730" y="2050" />
+              <mxPoint x="-580" y="2050" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="12RdLnxwD0o7JAVxzCQB-98" value="Testes das telas" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-790" y="1980" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="12RdLnxwD0o7JAVxzCQB-128" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="12RdLnxwD0o7JAVxzCQB-99" target="12RdLnxwD0o7JAVxzCQB-111">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="12RdLnxwD0o7JAVxzCQB-99" value="Testes dos cadastros" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-640" y="1980" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="12RdLnxwD0o7JAVxzCQB-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="12RdLnxwD0o7JAVxzCQB-100" target="12RdLnxwD0o7JAVxzCQB-111">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-430" y="2050" />
+              <mxPoint x="-580" y="2050" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="12RdLnxwD0o7JAVxzCQB-100" value="Testes do salvamento de dados offline" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-490" y="1980" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="12RdLnxwD0o7JAVxzCQB-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="12RdLnxwD0o7JAVxzCQB-101" target="12RdLnxwD0o7JAVxzCQB-111">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-280" y="2050" />
+              <mxPoint x="-580" y="2050" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="12RdLnxwD0o7JAVxzCQB-101" value="Testes de sincronização dos dados com o servidor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-340" y="1980" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="12RdLnxwD0o7JAVxzCQB-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="12RdLnxwD0o7JAVxzCQB-109" target="12RdLnxwD0o7JAVxzCQB-111">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-130" y="2050" />
+              <mxPoint x="-580" y="2050" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="12RdLnxwD0o7JAVxzCQB-109" value="Outros testes" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-190" y="1980" width="120" height="60" as="geometry" />
