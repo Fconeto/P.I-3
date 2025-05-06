@@ -1,9 +1,72 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="26.0.16">
   <diagram name="Página-1" id="eb5TO_QlAhTsJXs5QxYS">
-    <mxGraphModel>
+    <mxGraphModel dx="2853" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="12RdLnxwD0o7JAVxzCQB-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="12RdLnxwD0o7JAVxzCQB-1" target="12RdLnxwD0o7JAVxzCQB-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="12RdLnxwD0o7JAVxzCQB-1" value="Criação do fluxograma inicial" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-600" y="200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="12RdLnxwD0o7JAVxzCQB-2" value="1. Elabora fluxograma do projeto&lt;div&gt;2. Repositório do github&lt;/div&gt;&lt;div&gt;3. Criar backlog&lt;/div&gt;&lt;div&gt;4. Definir tecnologias utilizadas no projeto&lt;/div&gt;&lt;div&gt;5. Criação dos diagramas UML&lt;/div&gt;&lt;div&gt;6. Criação dos protótipos de telas&lt;/div&gt;&lt;div&gt;7. Início do desenvolvimento front-end e back-end&lt;/div&gt;&lt;div&gt;8. Adição do suporte a PWA&lt;/div&gt;&lt;div&gt;9. Realização dos teste de cadastro&lt;/div&gt;&lt;div&gt;10. Testes do salvamento de dados offline&lt;/div&gt;&lt;div&gt;11. Teste de sincronização dos dados salvos offline com o servidor&lt;/div&gt;&lt;div&gt;12. Teste final com o usuário&lt;/div&gt;&lt;div&gt;13. Refatoração do código&lt;/div&gt;&lt;div&gt;14. Documentar o projeto&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-790" y="20" width="160" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="12RdLnxwD0o7JAVxzCQB-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="12RdLnxwD0o7JAVxzCQB-3" target="12RdLnxwD0o7JAVxzCQB-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="12RdLnxwD0o7JAVxzCQB-3" value="Elaboração do fluxograma" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-440" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="12RdLnxwD0o7JAVxzCQB-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="12RdLnxwD0o7JAVxzCQB-4" target="12RdLnxwD0o7JAVxzCQB-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="12RdLnxwD0o7JAVxzCQB-4" value="Adicionar fluxograma no github" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-440" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="12RdLnxwD0o7JAVxzCQB-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="12RdLnxwD0o7JAVxzCQB-5" target="12RdLnxwD0o7JAVxzCQB-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="12RdLnxwD0o7JAVxzCQB-5" value="Prosseguir com a criação dos diagramas UML" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-560" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="12RdLnxwD0o7JAVxzCQB-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="12RdLnxwD0o7JAVxzCQB-4" target="12RdLnxwD0o7JAVxzCQB-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="12RdLnxwD0o7JAVxzCQB-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="12RdLnxwD0o7JAVxzCQB-7" target="12RdLnxwD0o7JAVxzCQB-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="12RdLnxwD0o7JAVxzCQB-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="12RdLnxwD0o7JAVxzCQB-7" target="12RdLnxwD0o7JAVxzCQB-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="12RdLnxwD0o7JAVxzCQB-7" value="Validar com a equipe" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-440" y="370" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="12RdLnxwD0o7JAVxzCQB-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="12RdLnxwD0o7JAVxzCQB-8" target="12RdLnxwD0o7JAVxzCQB-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="12RdLnxwD0o7JAVxzCQB-8" value="Alterar diagrama" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="12RdLnxwD0o7JAVxzCQB-24" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-520" y="600" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="12RdLnxwD0o7JAVxzCQB-26" value="Elaboração do conceito do projeto" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-800" y="1200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="12RdLnxwD0o7JAVxzCQB-27" value="Criação do repositório no github" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-640" y="1210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="12RdLnxwD0o7JAVxzCQB-28" value="Criação do projeto no github projects" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-490" y="1210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="12RdLnxwD0o7JAVxzCQB-29" value="Elaboração das tasks" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-340" y="1210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="12RdLnxwD0o7JAVxzCQB-31" value="As tasks serão divididas em&amp;nbsp;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="1190" width="50" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
