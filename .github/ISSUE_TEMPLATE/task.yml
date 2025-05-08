@@ -1,0 +1,30 @@
+name: Task Técnica
+description: Criar uma task para implementação técnica
+title: "[TASK] Nome da tarefa"
+labels: [task]
+body:
+  - type: input
+    id: related_story
+    attributes:
+      label: User Story Relacionada
+      placeholder: Número ou link da User Story
+  - type: textarea
+    id: objective
+    attributes:
+      label: O que será feito?
+      placeholder: Descreva a tarefa em detalhes técnicos
+  - type: input
+    id: estimated_time
+    attributes:
+      label: Estimativa de tempo (em horas)
+      placeholder: Ex: 4h
+  - type: checkboxes
+    id: technologies
+    attributes:
+      label: Tecnologias envolvidas
+      options:
+        - label: Angular
+        - label: .NET
+        - label: PWA
+        - label: Local Storage / IndexedDB
+        - label: API REST
