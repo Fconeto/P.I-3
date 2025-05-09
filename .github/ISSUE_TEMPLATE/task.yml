@@ -17,7 +17,7 @@ body:
     id: estimated_time
     attributes:
       label: Estimativa de tempo (em horas)
-      placeholder: Ex: 4h
+      placeholder: "Ex: 4h"
   - type: checkboxes
     id: technologies
     attributes:
