@@ -18,13 +18,3 @@ body:
     attributes:
       label: Estimativa de tempo (em horas)
       placeholder: "Ex: 4h"
-  - type: checkboxes
-    id: technologies
-    attributes:
-      label: Tecnologias envolvidas
-      options:
-        - label: Angular
-        - label: .NET
-        - label: PWA
-        - label: Local Storage / IndexedDB
-        - label: API REST
