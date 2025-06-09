@@ -21,6 +21,11 @@ body:
     attributes:
       label: Por que essa funcionalidade é importante?
       placeholder: "Ex: para poder realizar pesquisas posteriormente"
+  - type: textarea
+    id: context
+    attributes:
+      label: Contexto técnico?
+      placeholder: ""
   - type: checkboxes
     id: tags
     attributes:
