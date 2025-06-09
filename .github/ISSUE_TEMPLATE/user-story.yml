@@ -25,7 +25,7 @@ body:
     id: context
     attributes:
       label: Contexto técnico?
-      placeholder: ""
+      placeholder: "Ex: Esse item deve ser criado uma tela com o nome..."
   - type: checkboxes
     id: tags
     attributes:
