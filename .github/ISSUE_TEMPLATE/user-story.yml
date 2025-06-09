@@ -24,7 +24,7 @@ body:
   - type: textarea
     id: context
     attributes:
-      label: Contexto técnico?
+      label: Contexto técnico
       placeholder: "Ex: Esse item deve ser criado uma tela com o nome..."
   - type: checkboxes
     id: tags
