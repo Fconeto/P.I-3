@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0" version="27.1.6">
   <diagram name="Página-1" id="DglhQxTYwcVoG4UClbaS">
-    <mxGraphModel dx="1454" dy="973" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1345" dy="524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -80,16 +80,16 @@
           <mxGeometry y="358" width="230" height="26" as="geometry" />
         </mxCell>
         <mxCell id="zUorLh323JgTCuncFjUu-39" value="PIT" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="530" y="776" width="230" height="324" as="geometry" />
+          <mxGeometry x="530" y="776" width="230" height="344" as="geometry" />
         </mxCell>
-        <mxCell id="zUorLh323JgTCuncFjUu-40" value="&lt;div&gt;- PitId: Long&lt;/div&gt;&lt;div&gt;- NumeracaoDoPit: Long&lt;/div&gt;&lt;div&gt;- Cres: String&lt;/div&gt;&lt;div&gt;- Municipio: String&lt;/div&gt;&lt;div&gt;-&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;CodigoDaLocalidade: String&lt;/span&gt;&lt;/div&gt;&lt;div&gt;- NumeroDaCasa: Int&lt;/div&gt;&lt;div&gt;- OndeEncontrou: Enum&lt;/div&gt;&lt;div&gt;- LocalOndeEntrou: String&lt;/div&gt;&lt;div&gt;- NomeDoMorador: String&lt;/div&gt;&lt;div&gt;- NomeDoCapturador: String&lt;/div&gt;&lt;div&gt;- TipoDeInseto: Enum&lt;/div&gt;&lt;div&gt;- NomeDoRecebedor&lt;/div&gt;&lt;div&gt;- DataDoRegistro: Date&lt;/div&gt;&lt;div&gt;- PesquisaId: Long&lt;/div&gt;&lt;div&gt;&lt;div&gt;- DataDeRegistro: Datetime&lt;/div&gt;&lt;div&gt;- DataDeAtualização: Datetime&lt;/div&gt;&lt;div&gt;- CriadoPor: Long&lt;/div&gt;&lt;div&gt;- AtualizadoPor: Long&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="zUorLh323JgTCuncFjUu-39" vertex="1">
-          <mxGeometry y="26" width="230" height="264" as="geometry" />
+        <mxCell id="zUorLh323JgTCuncFjUu-40" value="&lt;div&gt;- PitId: Long&lt;/div&gt;&lt;div&gt;- NumeracaoDoPit: Long&lt;/div&gt;&lt;div&gt;- Cres: String&lt;/div&gt;&lt;div&gt;- Municipio: String&lt;/div&gt;&lt;div&gt;-&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;CodigoDaLocalidade: String&lt;/span&gt;&lt;/div&gt;&lt;div&gt;- NumeroDaCasa: Int&lt;/div&gt;&lt;div&gt;- OndeEncontrou: Enum&lt;/div&gt;&lt;div&gt;- LocalOndeEntrou: String&lt;/div&gt;&lt;div&gt;- NomeDoMorador: String&lt;/div&gt;&lt;div&gt;- NomeDoCapturador: String&lt;/div&gt;&lt;div&gt;- TipoDeInseto: Enum&lt;/div&gt;&lt;div&gt;- OutroTipoDeInseto: String&lt;/div&gt;&lt;div&gt;- NomeDoRecebedor: String&lt;/div&gt;&lt;div&gt;- DataDoRegistro: Date&lt;/div&gt;&lt;div&gt;- PesquisaId: Long&lt;/div&gt;&lt;div&gt;&lt;div&gt;- DataDeRegistro: Datetime&lt;/div&gt;&lt;div&gt;- DataDeAtualização: Datetime&lt;/div&gt;&lt;div&gt;- CriadoPor: Long&lt;/div&gt;&lt;div&gt;- AtualizadoPor: Long&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="zUorLh323JgTCuncFjUu-39" vertex="1">
+          <mxGeometry y="26" width="230" height="284" as="geometry" />
         </mxCell>
         <mxCell id="zUorLh323JgTCuncFjUu-41" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="zUorLh323JgTCuncFjUu-39" vertex="1">
-          <mxGeometry y="290" width="230" height="8" as="geometry" />
+          <mxGeometry y="310" width="230" height="8" as="geometry" />
         </mxCell>
         <mxCell id="zUorLh323JgTCuncFjUu-42" value="+ method(type): type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="zUorLh323JgTCuncFjUu-39" vertex="1">
-          <mxGeometry y="298" width="230" height="26" as="geometry" />
+          <mxGeometry y="318" width="230" height="26" as="geometry" />
         </mxCell>
         <mxCell id="zUorLh323JgTCuncFjUu-43" value="Contagem" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="530" y="1264" width="230" height="114" as="geometry" />
@@ -152,7 +152,7 @@
             <mxPoint x="620" y="686" as="sourcePoint" />
             <mxPoint x="470" y="686" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="450" y="934" />
+              <mxPoint x="450" y="944" />
               <mxPoint x="450" y="747" />
             </Array>
           </mxGeometry>
@@ -215,16 +215,16 @@
             <mxPoint x="7" y="18" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7a78CGe_md9P1EJX0zAw-1" value="Localidade" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7a78CGe_md9P1EJX0zAw-1" value="Localidade" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="850" y="90" width="230" height="184" as="geometry" />
         </mxCell>
-        <mxCell id="7a78CGe_md9P1EJX0zAw-2" value="&lt;div&gt;&lt;div&gt;- LocalidadeId: Long&lt;/div&gt;&lt;div&gt;- CodigoDaLocalidade:&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Long&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;- Nome: String&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;- Categoria: String&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;- DataDeRegistro: Datetime&lt;/div&gt;&lt;div&gt;- DataDeAtualização: Datetime&lt;/div&gt;&lt;div&gt;- CriadoPor: Long&lt;/div&gt;&lt;div&gt;- AtualizadoPor: Long&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="7a78CGe_md9P1EJX0zAw-1">
+        <mxCell id="7a78CGe_md9P1EJX0zAw-2" value="&lt;div&gt;&lt;div&gt;- LocalidadeId: Long&lt;/div&gt;&lt;div&gt;- CodigoDaLocalidade:&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Long&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;- Nome: String&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;- Categoria: String&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;- DataDeRegistro: Datetime&lt;/div&gt;&lt;div&gt;- DataDeAtualização: Datetime&lt;/div&gt;&lt;div&gt;- CriadoPor: Long&lt;/div&gt;&lt;div&gt;- AtualizadoPor: Long&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="7a78CGe_md9P1EJX0zAw-1" vertex="1">
           <mxGeometry y="26" width="230" height="124" as="geometry" />
         </mxCell>
-        <mxCell id="7a78CGe_md9P1EJX0zAw-3" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="7a78CGe_md9P1EJX0zAw-1">
+        <mxCell id="7a78CGe_md9P1EJX0zAw-3" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="7a78CGe_md9P1EJX0zAw-1" vertex="1">
           <mxGeometry y="150" width="230" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="7a78CGe_md9P1EJX0zAw-4" value="+ method(type): type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="7a78CGe_md9P1EJX0zAw-1">
+        <mxCell id="7a78CGe_md9P1EJX0zAw-4" value="+ method(type): type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="7a78CGe_md9P1EJX0zAw-1" vertex="1">
           <mxGeometry y="158" width="230" height="26" as="geometry" />
         </mxCell>
       </root>
